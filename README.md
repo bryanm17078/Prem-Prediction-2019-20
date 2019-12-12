@@ -31,4 +31,4 @@ Scikit-learn (LogisticRegression)
 
 A confusion matrix would be great to analyse which games the model got wrong.
 
-Include more measurement that may affect or influence the result e.g. expected goals,injuries and form.
+Include more measurements that may affect or influence the result e.g. expected goals,injuries and form.
