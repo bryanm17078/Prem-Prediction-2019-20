@@ -1,19 +1,19 @@
 # Prem-Prediction-2019-20
-Predict the 2019-20 Premier League in Python
+Predict the 2019-20 Premier League in Python.
 
-I used a machine learning algorithm (logisitic regression) to predict the result of the remaining premier league fixtures and the final premier league table
+I used a machine learning algorithm (logisitic regression) to predict the result of the remaining premier league fixtures and the final premier league table.
 
 # Aims
-Use Machine Learning to predict the winner of the premier league and the final premier league table( win,loss and draws).
+Use Machine Learning to predict the winner of the premier league and the final premier league table(win,loss and draws).
 
 Predict the outcome of individual matches for the entire competition.
 
-Run simulation of the remaining fixtures
+Run simulation of the remaining fixtures.
 
 The aims present a unique real-world Machine Learning prediction problem and involve solving various Machine Learning tasks: data wrangling, feature extraction and outcome prediction.
 
 # Dataset
-I used dataset from football-data,kaggle and soccersoda for the premier league game that were played,the remaining fixtures and the historical premier league games dataset
+I used dataset from football-data,kaggle and soccersoda for the premier league games that were played,the remaining fixtures and the historical premier league games dataset.
 Taking care to remove games that  where either team were not in the current premier league season from the historical dataset as I didn't want those result to add weight and potentially bias the model.
 
 # Environment and tools
