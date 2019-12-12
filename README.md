@@ -3,6 +3,9 @@ Predict the 2019-20 Premier League in Python.
 
 I used a machine learning algorithm (logisitic regression) to predict the result of the remaining premier league fixtures and the final premier league table.
 
+These goals present a unique real-world Machine Learning prediction problem and involve solving various Machine Learning tasks: data integration, feature modelling and outcome prediction.
+
+
 # Aims
 Use Machine Learning to predict the winner of the premier league and the final premier league table(win,loss and draws).
 
@@ -18,10 +21,15 @@ Taking care to remove games that  where either team were not in the current prem
 
 # Environment and tools
 Python 2.7
+
 Jupyter Notebook
+
 Numpy
+
 Pandas
+
 Matplotlib
+
 Scikit-learn (LogisticRegression)
 
 
@@ -31,4 +39,5 @@ Scikit-learn (LogisticRegression)
 
 A confusion matrix would be great to analyse which games the model got wrong.
 
-Include more measurements that may affect or influence the result e.g. expected goals,injuries and form.
+Include more measurements in our dataset that may affect or influence the result e.g. expected goals,injuries and quality of the player
+
