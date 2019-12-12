@@ -1,7 +1,7 @@
 # Prem-Prediction-2019-20
 Predict the 2019-20 Premier League in Python.
 
-I used a machine learning algorithm (logisitic regression) to predict the result of the remaining premier league fixtures and the final premier league table.
+I used a machine learning algorithm (logisitic regression) to predict the result of the remaining premier league fixtures and the final premier league table. I got this idea from Gerald Muriuki and his attempt to predict the result of the 2018 World Cup.
 
 These goals present a unique real-world Machine Learning prediction problem and involve solving various Machine Learning tasks: data integration, feature modelling and outcome prediction.
 
