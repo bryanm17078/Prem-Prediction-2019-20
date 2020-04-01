@@ -16,7 +16,7 @@ Run simulation of the remaining fixtures.
 The aims present a unique real-world Machine Learning prediction problem and involve solving various Machine Learning tasks: data wrangling, feature extraction and outcome prediction.
 
 # Dataset
-I used dataset from football-data,kaggle and soccersoda for the premier league games that were played,the remaining fixtures and the historical premier league games dataset.
+I used datasets from football-data,kaggle and soccersoda for the premier league games that were played,the remaining fixtures and the historical premier league games dataset.
 Taking care to remove games that  where either team were not in the current premier league season from the historical dataset as I didn't want those result to add weight and potentially bias the model.
 
 # Environment and tools
